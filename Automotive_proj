@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Automotive Diagnostics Project</title>
+</head>
+<body>
+
+<h1>Automotive Diagnostics using CAN & UDS</h1>
+
+<h2>Project Overview</h2>
+<p>This project focuses on ECU diagnostics using CAN protocol and UDS services.</p>
+
+<h2>System Architecture</h2>
+<p>ECU ↔ CAN Bus ↔ CANoe Tool</p>
+
+<h2>Tools Used</h2>
+<ul>
+  <li>Vector CANoe</li>
+  <li>Vector CANalyzer</li>
+  <li>dSPACE</li>
+</ul>
+
+<h2>Results</h2>
+<p>Test Cases: 25 | Pass Rate: 80%</p>
+
+<h2>Conclusion</h2>
+<p>Hands-on experience in automotive diagnostics and testing.</p>
+
+</body>
+</html>
